@@ -6,5 +6,11 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="tsw"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/pedro.carlos.santos/OneDrive - Accenture/TIM/NBA/00 - Demandas/Mocks SAS CI Rest Soap UI Testes/JARs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pedro.carlos.santos/OneDrive - Accenture/TIM/NBA/00 - Demandas/Mocks SAS CI Rest Soap UI Testes/JARs/poi-3.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pedro.carlos.santos/OneDrive - Accenture/TIM/NBA/00 - Demandas/Mocks SAS CI Rest Soap UI Testes/JARs/poi-ooxml-3.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pedro.carlos.santos/OneDrive - Accenture/TIM/NBA/00 - Demandas/Mocks SAS CI Rest Soap UI Testes/JARs/poi-ooxml-schemas-3.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pedro.carlos.santos/OneDrive - Accenture/TIM/NBA/00 - Demandas/Mocks SAS CI Rest Soap UI Testes/JARs/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pedro.carlos.santos/OneDrive - Accenture/TIM/NBA/00 - Demandas/Mocks SAS CI Rest Soap UI Testes/JARs/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

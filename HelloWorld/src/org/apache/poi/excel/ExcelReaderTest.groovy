@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test
 
 class ExcelReaderTest {
 	
-	private static final String PATH =  "";
+	private static final String PATH =  "C:\\Users\\pedro.carlos.santos\\OneDrive - Accenture\\TIM\\NBA\\00 - Demandas\\Mocks SAS CI Rest Soap UI Testes\\Teste_soapui1.xlsx;
 	
 	private ExcelReader er;
 	
